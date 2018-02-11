@@ -1,5 +1,5 @@
 
-ocnPrint(?output "./MN_dat/MN_ids.dat" ?numberNotation 'scientific getData("MN.m1:ids" ?result "dc"))
+ocnPrint(?output "./MN_dat/MN_id.dat" ?numberNotation 'scientific getData("MN.m1:id" ?result "dc"))
 ocnPrint(?output "./MN_dat/MN_vth.dat" ?numberNotation 'scientific getData("MN.m1:vth" ?result "dc"))
 ocnPrint(?output "./MN_dat/MN_igd.dat" ?numberNotation 'scientific getData("MN.m1:igd" ?result "dc"))
 ocnPrint(?output "./MN_dat/MN_igs.dat" ?numberNotation 'scientific getData("MN.m1:igs" ?result "dc"))
@@ -18,7 +18,7 @@ ocnPrint(?output "./MN_dat/MN_cjd.dat" ?numberNotation 'scientific getData("MN.m
 ocnPrint(?output "./MN_dat/MN_cjs.dat" ?numberNotation 'scientific getData("MN.m1:cjs" ?result "dc"))
 ocnPrint(?output "./MN_dat/MN_gmoverid.dat" ?numberNotation 'scientific getData("MN.m1:gmoverid" ?result "dc"))
 
-ocnPrint(?output "./MP_dat/MP_ids.dat" ?numberNotation 'scientific getData("MP.m1:ids" ?result "dc"))
+ocnPrint(?output "./MP_dat/MP_id.dat" ?numberNotation 'scientific getData("MP.m1:id" ?result "dc"))
 ocnPrint(?output "./MP_dat/MP_vth.dat" ?numberNotation 'scientific getData("MP.m1:vth" ?result "dc"))
 ocnPrint(?output "./MP_dat/MP_igd.dat" ?numberNotation 'scientific getData("MP.m1:igd" ?result "dc"))
 ocnPrint(?output "./MP_dat/MP_igs.dat" ?numberNotation 'scientific getData("MP.m1:igs" ?result "dc"))
